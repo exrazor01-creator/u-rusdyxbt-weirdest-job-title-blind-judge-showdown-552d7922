@@ -6,8 +6,8 @@ Pure standard library, no dependencies. Run: python3 main.py
 
 TITLE_PARTS = [
     "Senior Executive Vice President of Waiting for the Microwave:",
-    "14 years' experience watching a plate spin in circles,",
-    "zero promotions, one Nobel Prize in Patience (pending).",
+    "14 years watching a plate spin, zero promotions,",
+    "a Nobel Prize in Patience (pending) and a PhD in Beep Interpretation.",
 ]
 
 TITLE = " ".join(TITLE_PARTS)
